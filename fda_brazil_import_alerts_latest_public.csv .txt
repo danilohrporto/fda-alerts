@@ -1,0 +1,6 @@
+Código do Alerta,Produto,Problema Identificado,Empresa Exportadora,Status do Alerta,Data de Inclusão,Link para o Alerta
+28-04,Pimenta-do-reino (preta e branca),Contaminação por Salmonella,Diversas empresas brasileiras,Ativo,21/02/2025,https://www.accessdata.fda.gov/cms_ia/importalert_92.html
+34-01,Grãos de cacau,Presença de insetos vivos,Diversas empresas brasileiras,Ativo,21/02/2025,https://www.accessdata.fda.gov/CMS_IA/importalert_106.html
+45-06,Folhas de stevia e extratos brutos,Uso de aditivo alimentar não aprovado,Diversas empresas brasileiras,Ativo,14/05/2025,https://www.accessdata.fda.gov/cms_ia/importalert_119.html
+99-45,Produtos alimentícios diversos,Presença de aditivos alimentares inseguros,Diversas empresas brasileiras,Ativo,10/06/2025,https://www.accessdata.fda.gov/CMS_IA/importalert_1173.html
+89-04,Dispositivos médicos,Não conformidade com requisitos de qualidade,Diversas empresas brasileiras,Ativo,24/06/2025,https://www.accessdata.fda.gov/CMS_IA/importalert_241.html
